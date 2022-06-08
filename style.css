@@ -1,0 +1,16 @@
+.page{
+background-color: aqua;
+display: flex;
+align-content: flex-end;
+
+justify-content: center;
+
+}
+
+.first{
+   position: relative;
+    width: 50px;
+    height: 30px;
+    background-color: gold;
+
+}
